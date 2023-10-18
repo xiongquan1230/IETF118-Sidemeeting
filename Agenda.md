@@ -16,8 +16,6 @@ the QoS-related treatments and behaviors. It also impacts the TE solutions inclu
 resource scheduling in scaling networks. This side meeting is initiated to have broad discussions and identify the chief 
 concerns, disagreements and consensus of the IETF DetNet and TEAS community. 
 
-The related draft link is https://datatracker.ietf.org/doc/draft-xiong-detnet-teas-te-extensions/. 
-
 The primary agenda is shown as below.
 1, Note well, welcome statements, introduction and agenda bash. 5mins (Daniel Huang)
 
