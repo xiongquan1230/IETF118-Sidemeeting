@@ -8,6 +8,8 @@ Time: MONDAY 6 November-17：30~19：00
 
 Location: Palmovka 1/2
 
+Contact: huang.guangping@zte.com.cn,xiong.quan@zte.com.cn
+
 The enhanced DetNet has been proposed since July 2022 and enhanced data plane requirements and queuing solutions are currently 
 being discussed in DetNet WG. Furthermore, enhanced DetNet should also support the new requirements to achieve enhanced network
 performance and efficiency and promote the deployment such as different levels of applications co-existed with differentiated 
