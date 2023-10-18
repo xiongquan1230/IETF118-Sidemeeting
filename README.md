@@ -1,7 +1,7 @@
 # IETF118-Sidemeeting
 This repository is for all the meeting materials.
 
-We're planning to have a side meeting at IETF 118: Consideration and discussion about QoS & TE for Differentiated Deterministic services.
+We're planning to have a side meeting at IETF 118:  QoS & TE for Differentiated Deterministic services.
 
 Time: MONDAY 6 November-17：30~19：00
 
