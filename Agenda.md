@@ -22,7 +22,7 @@ The primary agenda is shown as below.
 
 1, Note well, welcome statements, introduction and agenda bash. 5mins (Daniel Huang)
 
-2, QoS & TE for Enhanced DetNet use cases:
+2, Enhanced use cases for scaling networks:
 
 *Enhanced Use cases and Classification of Applications for  Differentiated Services. Presenter: Junfeng Zhao (CAICT). 10mins
 
