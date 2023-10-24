@@ -26,13 +26,15 @@ The primary agenda is shown as below.
 
 *Enhanced Use cases and Classification of Applications for  Differentiated Services. Presenter: Junfeng Zhao (CAICT). 10mins
 
-*Deterministic QoS Consideration for Enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
+*RAW/DetNet muti-domain use cases and solution consideration. Presenter:  Carlos J. Bernardos (UC3M). 10mins
 
-*Requirements and Solution of Scaling Deterministic Networking Capability as a Service. Presenter: Jie Liang(China Telecom). 10mins
+*Deterministic QoS Consideration for Enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
 
 3, Problems, gap analysis and requirements:
 
 *CATS & DetNet TE Requirements. Presenter: Adrian Farrel (Old Dog). 10mins
+
+*Requirements and Solution of Scaling Deterministic Networking Capability as a Service. Presenter: Jie Liang(China Telecom). 10mins
 
 *Gap Analysis for DetNet QoS and TE. Presenter: Aihua Liu (ZTE).10mins
 
