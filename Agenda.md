@@ -8,6 +8,8 @@ Time: MONDAY 6 November-17：30~19：00
 
 Location: Palmovka 1/2
 
+Remote Teams Meeting Link: https://teams.live.com/meet/958937268416?p=LhYlkLtlTU7BOBSm
+
 Contact: Daniel Huang(huang.guangping@zte.com.cn),Quan Xiong(xiong.quan@zte.com.cn)
 
 The enhanced DetNet has been proposed since July 2022 and enhanced data plane requirements and queuing solutions are currently 
