@@ -22,7 +22,7 @@ The primary agenda is shown as below.
 
 A, Note well, welcome statements, introduction and agenda bash. 5mins (Daniel Huang)
 
-B, Enhanced use cases, problems, gap analysis, requirements and solution consideration of QoS & TE for differentiated deterministic services. 
+B, Enhanced use cases, problems, gap analysis, requirements and solution consideration of QoS & TE for differentiated deterministic services. 65mins
 
 1)Enhanced use cases and classification of applications for differentiated services. Presenter: Junfeng Zhao (CAICT). 10mins
 
@@ -34,9 +34,9 @@ B, Enhanced use cases, problems, gap analysis, requirements and solution conside
 
 5)CATS & DetNet TE requirements. Presenter: Adrian Farrel (Old Dog). 10mins
 
-6)Solution consideration about differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE), 15mins.
+6)Solution consideration about differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE). 15mins.
 
-C, Open discussions 20mins
+C, Open discussions. 20mins
 
 *DetNet TE with time-based resources, what could be extended?
 *Is the existing QoS enough for the diversified and differentiated deterministic service ?
