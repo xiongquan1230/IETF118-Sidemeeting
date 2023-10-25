@@ -1,6 +1,6 @@
 ## Meeting Agenda
 
-# QoS & TE for Differentiated Deterministic service
+# QoS & TE for Differentiated Deterministic services
 
 A side meeting at IETF 118
 
@@ -20,29 +20,18 @@ concerns, disagreements and consensus of the IETF DetNet and TEAS community. 
 
 The primary agenda is shown as below.
 
-1, Note well, welcome statements, introduction and agenda bash. 5mins (Daniel Huang)
+A, Note well, welcome statements, introduction and agenda bash. 5mins (Daniel Huang)
 
-2, Enhanced use cases for scaling networks:
+B, Enhanced use cases, problems, gap analysis, requirements and solution consideration of QoS & TE for differentiated deterministic services. 
 
-*Enhanced Use cases and Classification of Applications for  Differentiated Services. Presenter: Junfeng Zhao (CAICT). 10mins
+1)Enhanced use cases and classification of applications for differentiated services. Presenter: Junfeng Zhao (CAICT). 10mins
+2)RAW/DetNet muti-domain use cases and solution consideration. Presenter:  Carlos J. Bernardos (UC3M). 10mins
+3)Deterministic QoS consideration for enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
+4)CATS & DetNet TE requirements. Presenter: Adrian Farrel (Old Dog). 10mins
+5)Requirements and solution of scaling deterministic networking capability as a service. Presenter: Chanchan Huang(China Telecom). 10mins
+6)Solution consideration about differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE), 15mins.
 
-*RAW/DetNet muti-domain use cases and solution consideration. Presenter:  Carlos J. Bernardos (UC3M). 10mins
-
-*Deterministic QoS Consideration for Enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
-
-3, Problems, gap analysis and requirements:
-
-*CATS & DetNet TE Requirements. Presenter: Adrian Farrel (Old Dog). 10mins
-
-*Requirements and Solution of Scaling Deterministic Networking Capability as a Service. Presenter: Jie Liang(China Telecom). 10mins
-
-*Gap Analysis for DetNet QoS and TE. Presenter: Aihua Liu (ZTE).10mins
-
-4, Solution consideration:
-
-*Differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE), 10mins.
-
-5, Open discussions 15mins
+C, Open discussions 20mins
 
 *DetNet TE with time-based resources, what could be extended?
 *Is the existing QoS enough for the diversified and differentiated deterministic service ?
