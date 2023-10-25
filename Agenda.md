@@ -30,9 +30,9 @@ B, Enhanced use cases, problems, gap analysis, requirements and solution conside
 
 3)Deterministic QoS consideration for enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
 
-4)CATS & DetNet TE requirements. Presenter: Adrian Farrel (Old Dog). 10mins
+4)Requirements and solution of scaling deterministic networking capability as a service. Presenter: Chanchan Huang(China Telecom). 10mins
 
-5)Requirements and solution of scaling deterministic networking capability as a service. Presenter: Chanchan Huang(China Telecom). 10mins
+5)CATS & DetNet TE requirements. Presenter: Adrian Farrel (Old Dog). 10mins
 
 6)Solution consideration about differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE), 15mins.
 
