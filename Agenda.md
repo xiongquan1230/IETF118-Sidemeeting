@@ -41,4 +41,5 @@ B, Enhanced use cases, problems, gap analysis, requirements and solution conside
 C, Open discussions. 20mins(Daniel Huang)
 
 *DetNet TE with time-based resources, what could be extended?
+
 *Is the existing QoS enough for the diversified and differentiated deterministic service ?
