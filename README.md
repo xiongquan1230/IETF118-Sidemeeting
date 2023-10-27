@@ -2,7 +2,7 @@
 
 We're planning to have a side meeting at IETF 118:  QoS & TE for Differentiated Deterministic services.
 
-Time: MONDAY 6 November-17：30~19：00
+Time: MONDAY 6 November-17：30~19：00 (Prague)
 
 Location: Palmovka 1/2
 
