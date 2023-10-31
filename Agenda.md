@@ -20,27 +20,25 @@ the QoS-related treatments and behaviors. It also impacts the TE solutions inclu
 resource scheduling in scaling networks. This side meeting is initiated to have broad discussions and identify the chief 
 concerns, disagreements and consensus of the IETF DetNet and TEAS community. 
 
+The side meeting mainly focus on the enhanced use cases, problems, gap analysis, requirements and solution consideration of QoS & TE for differentiated deterministic services. 
+
 The primary agenda is shown as below.
 
-A, Note well, welcome statements, introduction and agenda bash. 5mins (Daniel Huang)
+1. 17:30-17:35 Note well, welcome statements, introduction and agenda bash. Daniel Huang. 5mins
 
+2. 17:35-17:45 Enhanced use cases and classification of applications for differentiated services. Presenter: Junfeng Zhao (CAICT). 10mins
 
-B, Enhanced use cases, problems, gap analysis, requirements and solution consideration of QoS & TE for differentiated deterministic services. 65mins
+3. 17:45-17:55 RAW/DetNet muti-domain use cases and solution consideration. Presenter:  Carlos J. Bernardos (UC3M). 10mins.
 
-1)Enhanced use cases and classification of applications for differentiated services. Presenter: Junfeng Zhao (CAICT). 10mins
+4. 17:55-18:05 Traffic Engineering in CATS and DetNet. Presenter: Adrian Farrel (Old Dog). 10mins
 
-2)RAW/DetNet muti-domain use cases and solution consideration. Presenter:  Carlos J. Bernardos (UC3M). 10mins
+5. 18:05-18:15 Deterministic QoS consideration for enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
 
-3)Deterministic QoS consideration for enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
+6. 18:15-18:25 Requirements and solution of scaling deterministic networking capability as a service. Presenter: Chanchan Huang(China Telecom). 10mins
 
-4)Requirements and solution of scaling deterministic networking capability as a service. Presenter: Chanchan Huang(China Telecom). 10mins
+7. 18:25-18:40 Solution consideration about differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE). 15mins.
 
-5)CATS & DetNet TE requirements. Presenter: Adrian Farrel (Old Dog). 10mins
-
-6)Solution consideration about differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE). 15mins.
-
-
-C, Open discussions. 20mins(Daniel Huang)
+8. 18:40-17:00 Open discussions. Daniel Huang.20mins
 
 *DetNet TE with time-based resources, what could be extended?
 
