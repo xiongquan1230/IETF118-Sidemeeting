@@ -26,11 +26,11 @@ The primary agenda is shown as below.
 
 1. 17:30-17:35 Note well, welcome statements, introduction and agenda bash. Daniel Huang. 5mins
 
-2. 17:35-17:45 Enhanced use cases and classification of applications for differentiated services. Presenter: Junfeng Zhao (CAICT). 10mins
+2. 17:35-17:45 Traffic Engineering in CATS and DetNet. Presenter: Adrian Farrel (Old Dog). 10mins
 
 3. 17:45-17:55 RAW/DetNet muti-domain use cases and solution consideration. Presenter:  Carlos J. Bernardos (UC3M). 10mins.
 
-4. 17:55-18:05 Traffic Engineering in CATS and DetNet. Presenter: Adrian Farrel (Old Dog). 10mins
+4. 17:55-18:05 Enhanced use cases and classification of applications for differentiated services. Presenter: Junfeng Zhao (CAICT). 10mins
 
 5. 18:05-18:15 Deterministic QoS consideration for enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
 
