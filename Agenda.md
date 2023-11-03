@@ -30,7 +30,7 @@ The primary agenda is shown as below.
 
 3. 17:45-17:55 RAW/DetNet muti-domain use cases and solution consideration. Presenter:  Carlos J. Bernardos (UC3M). 10mins.
 
-4. 17:55-18:05 Enhanced use cases and classification of applications for differentiated services. Presenter: Junfeng Zhao (CAICT). 10mins
+4. 17:55-18:05 Enhanced Use cases for Scaling Deterministic Networks. Presenter: Junfeng Zhao (CAICT). 10mins
 
 5. 18:05-18:15 Deterministic QoS consideration for enhanced DetNet. Presenter: Peng Liu(China Mobile). 10mins
 
