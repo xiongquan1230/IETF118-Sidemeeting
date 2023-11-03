@@ -36,7 +36,7 @@ The primary agenda is shown as below.
 
 6. 18:15-18:25 Requirements and solution of scaling deterministic networking capability as a service. Presenter: Chanchan Huang(China Telecom). 10mins
 
-7. 18:25-18:40 Solution consideration about differentiated DetNet-aware QoS and TE. Quan Xiong (ZTE). 15mins.
+7. 18:25-18:40 Solution consideration about differentiated DetNet QoS and TE. Quan Xiong (ZTE). 15mins.
 
 8. 18:40-17:00 Open discussions. Daniel Huang.20mins
 
