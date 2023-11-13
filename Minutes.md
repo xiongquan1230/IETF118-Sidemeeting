@@ -38,7 +38,15 @@ No comments.
 
 [Daniel Huang]-Aggregate scheduling is based on the aggregated-flows and per-class is based on the traffic classification and can provide fine-grained traffic scheduling.
 
-Open discussions. Daniel Huang.20mins
+8,Open discussions. Daniel Huang.20mins
 
 No discussion due to the time limits.
+
+*****Next Step*****
+
+1,Detailed discussion about the DetNet QoS and TE, including the use cases, aggregation and per-class QoS and the fine-grained traffic and resource scheduling.
+2, Ask suggestions from related WGs (e.g. DetNet, Teas, Cats and so on) and more reviews and feedbacks for the existing drafts.
+3,Welcome people who are interested in QoS and TE to join and collebrate with us.Thanks!
+
+
 
