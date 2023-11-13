@@ -1,4 +1,4 @@
-IETF 118 Sidemeeting Minutes-QoS & TE for Differentiated Deterministic services.
+*IETF 118 Sidemeeting Minutes-QoS & TE for Differentiated Deterministic services*
 
 MONDAY, 6 November 2023, 17：30~19：00 (Prague)
 
@@ -51,6 +51,7 @@ No discussion due to the time limits.
 3,Welcome people who are interested in QoS and TE to join and collebrate with us.Thanks!
 
 ***Related Drafts links for your reference***
+
 https://datatracker.ietf.org/doc/draft-xiong-detnet-enhanced-detnet-gap-analysis/
 
 https://datatracker.ietf.org/doc/draft-ietf-detnet-scaling-requirements/
