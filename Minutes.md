@@ -10,7 +10,7 @@ No bashing.
 
 [Toerless]-Not sure about the TE and DetNet relationship, but the requirements have been discussed on the control plane and data plane in DetNet WG.
 
-[Janos]-DetNet is not TE technology. It can be considered as Traffic Steering, similar to CATS, which defines data plane extension, while others use existing TE technology.
+[János Farkas]-DetNet is not TE technology. It can be considered as Traffic Steering, similar to CATS, which defines data plane extension, while others use existing TE technology.
 
 3,RAW/DetNet muti-domain use cases and solution consideration. Presenter: Carlos J. Bernardos (UC3M). 10mins.
 
