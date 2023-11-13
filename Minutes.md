@@ -50,7 +50,7 @@ No discussion due to the time limits.
 
 3,Welcome people who are interested in QoS and TE to join and collebrate with us.Thanks!
 
-***Related Drafts links for your reference***
+***Drafts links for your reference***
 
 https://datatracker.ietf.org/doc/draft-xiong-detnet-enhanced-detnet-gap-analysis/
 
