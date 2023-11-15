@@ -44,7 +44,7 @@ No discussion due to the time limits.
 
 *****Next Step*****
 
-1,Detailed discussion and modification about the DetNet QoS and TE, including the use cases, aggregation and per-class QoS and the fine-grained traffic and resource scheduling.
+1,Further discussions for DetNet TE & QoS particularly for the Enhanced DetNet under which per-aggregation VS per-class TE and fine-grained traffic and resource scheduling should be clarified with use cases as well as refined framework solutions.
 
 2, Ask suggestions from related WGs (e.g. DetNet, Teas, Cats and so on) and more reviews and feedbacks for the existing drafts.
 
