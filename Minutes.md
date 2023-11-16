@@ -48,7 +48,7 @@ No discussion due to the time limits.
 
 2, Ask suggestions from related WGs (e.g. DetNet, Teas, Cats and so on) and more reviews and feedbacks for the existing drafts.
 
-3,Welcome people who are interested in QoS and TE to join and collebrate with us.Thanks!
+3,Welcome people who are interested in QoS and TE to join and collaborate with us.Thanks!
 
 ***Drafts links for your reference***
 
