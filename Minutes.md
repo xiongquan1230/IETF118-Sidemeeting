@@ -42,7 +42,7 @@ No comments.
 
 No discussion due to the time limits.
 
-*****Next Step*****
+*****Next Steps*****
 
 1,Further discussions for DetNet TE & QoS particularly for the Enhanced DetNet under which per-aggregation VS per-class TE and fine-grained traffic and resource scheduling should be clarified with use cases as well as refined framework solutions.
 
